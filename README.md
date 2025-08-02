@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hey I'm Daham Jayakody. 👋</h1>
 
 ###
@@ -24,7 +18,7 @@
 
 ###
 
-<p align="left">🎓 BSc (Hons) in Computer Science Undergraduate at SLIIT<br><br>- 🔭 Passionate about DevOps and cloud-native technologies.<br>- 📚 Problem Solver. Lifelong Learner</p>
+<p align="left">-🎓 BSc (Hons) in Computer Science Undergraduate at SLIIT.<br>- 🔭 Passionate about DevOps and cloud-native technologies.<br>- 📚 Problem Solver. Lifelong Learner.</p>
 
 ###
 
@@ -51,14 +45,3 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
